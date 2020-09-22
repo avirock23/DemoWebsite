@@ -1,1 +1,2 @@
 New Git once again
+Message from Master
